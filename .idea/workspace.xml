@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac6d399-92d7-46fc-9af0-0fac579ba76e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-4266693288-3738163429-101083888-1001/$RDZC57C/.idea/Data_Structures_and_Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-4266693288-3738163429-101083888-1001/$RQXJVLH/.idea/Data_Structures_and_Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA_90" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA_90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/Data_Strucrures_and_Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/Array_1D.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/ARRAY/Array_1D/src/T_01_Array_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/.idea/Data_Structures_and_Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Structures_and_Algorithms/Data_Structures/Array/src/T_01_Array_1D_Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/Binary_Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/out/production/Binary_Search/com/sks/SQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Binary_Search/src/com/sks/SQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/Interview_DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA/out/production/Interview_DSA/com/sks/SQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/Binary_Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/out/production/Binary_Search/com/sks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/out/production/Binary_Search/com/sks/SQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Questions/Binary_Search/src/com/sks/SQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/JAVA+DSA+INTERVIEW.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/Java_Basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/Java_Basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/Java_Basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/Java_Basics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA+DSA+INTERVIEW/Java_Basics/Java_Basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/Leet_Easy_Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Even_Digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Matrix_Diagonal_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Palindrome_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Plus_One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/SQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Smallest_Letter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Transpose_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/out/production/Leet_Easy_Code/com/sks/Two_Sum_Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Even_Digits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Matrix_Diagonal_Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Palindrome_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Plus_One.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/SQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Smallest_Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Transpose_Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leet_Easy_Code/src/com/sks/Two_Sum_Sorted.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="2SPXL1D4bgUkJ5KWM6Wv0EPRP2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac6d399-92d7-46fc-9af0-0fac579ba76e" name="Changes" comment="" />
+      <created>1689049148013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689049148013</updated>
+      <workItem from="1689049157546" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
