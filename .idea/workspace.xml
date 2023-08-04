@@ -4,9 +4,7 @@
     <list default="true" id="4ac6d399-92d7-46fc-9af0-0fac579ba76e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-4266693288-3738163429-101083888-1001/$RDZC57C/.idea/Data_Structures_and_Algorithms.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-4266693288-3738163429-101083888-1001/$RQXJVLH/.idea/Data_Structures_and_Algorithms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion_and_Backtracking/Backtracking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion_and_Backtracking/Backtracking/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DSA_90" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA_90" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/Data_Strucrures_and_Algorithms.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data_Strucrures_and_Algorithms/.idea/misc.xml" beforeDir="false" />
@@ -112,15 +110,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/DSA_50",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -139,6 +138,8 @@
       <workItem from="1690633212811" duration="226000" />
       <workItem from="1690703418266" duration="117000" />
       <workItem from="1690713797737" duration="143000" />
+      <workItem from="1691133970853" duration="209000" />
+      <workItem from="1691149351447" duration="38000" />
     </task>
     <servers />
   </component>
